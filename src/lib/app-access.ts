@@ -45,6 +45,7 @@ export const APP_ACCESS_DEFS: Record<
     modules: {
       sites: { label: "Sites", sub: { diary: "Site diary" } },
       documents: { label: "Documents", sub: {} },
+      partners: { label: "Partners", sub: {} },
       suppliers: { label: "Suppliers", sub: {} },
       materials: { label: "Materials", sub: { dailyEntry: "Daily entry" } },
       workers: {
