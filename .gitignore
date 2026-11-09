@@ -4,3 +4,6 @@ dev-dist
 *.local
 .env*.local
 *.tsbuildinfo
+
+# restored ignore rules
+.env
