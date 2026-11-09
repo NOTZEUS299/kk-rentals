@@ -6,4 +6,4 @@ dev-dist
 *.tsbuildinfo
 
 # restored ignore rules
-.env
+config.bat
